@@ -15,4 +15,4 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-orange?style=for-the-badge&logo=sqlalchemy)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-![AIOgram3](https://img.shields.io/badge/AIOgram3-009CFB)
+![AIOgram3](https://img.shields.io/badge/AIOgram3-009CFB?style=for-the-badge)
