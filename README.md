@@ -20,7 +20,7 @@
 ### Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/QuickLiker)
 [![ВК](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk)](https://vk.com/QuickLiker)
-[![hh](https://img.shields.io/badge/hh-090909?style=for-the-badge&logo=headhunter)](https://hh.ru/resume/e7cc54b7ff0e1f7a010039ed1f426749516151)
+[![hh](https://img.shields.io/badge/hh-090909?style=for-the-badge)](https://hh.ru/resume/e7cc54b7ff0e1f7a010039ed1f426749516151)
 [![LeetCode](https://img.shields.io/badge/leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/QuickLiker/)
 [![CodeWars](https://img.shields.io/badge/codewars-090909?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/QuickLiker)
-[![Stepik](https://img.shields.io/badge/stepik-090909?style=for-the-badge&logo=stepik)](https://stepik.org/users/300081888/profile)
+[![Stepik](https://img.shields.io/badge/stepik-090909?style=for-the-badge)](https://stepik.org/users/300081888/profile)
