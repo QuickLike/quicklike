@@ -3,7 +3,7 @@
 ## Python-разработчик с опытом разработки Backend, API, TelegramBot и Docker. Работаю на Linux. Подробнее в моём [резюме](https://hh.ru/resume/e7cc54b7ff0e1f7a010039ed1f426749516151).
 
 ### Мой стек
-![Python](https://img.shields.io/badge/PYTHON-3-yellow?labelColor=blue&style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-008E7E)
 ![Django](https://img.shields.io/badge/DJANGO-183E0C)
 ![Flask](https://img.shields.io/badge/Flask-white)
