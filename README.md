@@ -1,6 +1,6 @@
 ![Logo](https://github.com/QuickLike/quicklike/blob/main/assets/logo.png)
 
-## Python-разработчик с опытом разработки Backend, API, TelegramBot и Docker. Работаю на Linux. Подробнее в моём [резюме](https://hh.ru/resume/e7cc54b7ff0e1f7a010039ed1f426749516151).
+## Старший разработчик ПО на Python с опытом разработки Backend, API, TelegramBot и Docker. Работаю на Linux. Подробнее в моём [резюме](https://hh.ru/resume/e7cc54b7ff0e1f7a010039ed1f426749516151).
 
 ### Мой стек:
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
